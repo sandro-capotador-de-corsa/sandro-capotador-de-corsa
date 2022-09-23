@@ -1,4 +1,5 @@
 #sobre mim :brazil:
+
 -:shipit: salve salve, eu sou aluno sandro
 
 -:trollface:	eu estou interessado em programação

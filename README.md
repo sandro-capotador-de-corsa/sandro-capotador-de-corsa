@@ -6,4 +6,4 @@
 
 -:airplane: atualmente estou aprendendo programação
 
--:camera_flash: meu ista:gelo.sandrojr
+-:camera_flash: 
